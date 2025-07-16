@@ -1,4 +1,4 @@
-#sul
+# sul
 
 currently studying database and gis scripting in python
 

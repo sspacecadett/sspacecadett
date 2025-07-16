@@ -1,6 +1,7 @@
-# sul
+<h2>sul</h2>
 
-studying database and gis scripting in python
+student at sac state
+currently studying database and gis scripting in python
 
 ***
 

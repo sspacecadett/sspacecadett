@@ -1,7 +1,5 @@
 <h2>sul</h2>
 
-student at sac state
-
 currently studying database and gis scripting in python
 
 ***

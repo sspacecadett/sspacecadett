@@ -2,7 +2,9 @@
 
 studying database and gis scripting in python
 
-## stuff I work with
+***
+
+# stuff I work with
 
 <!--
 **sspacecadett/sspacecadett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

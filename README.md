@@ -4,7 +4,7 @@ currently studying database and gis scripting in python
 
 *** 
 
-stuff I work with
+**stuff I work with:**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)

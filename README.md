@@ -1,6 +1,6 @@
 # sul
 
-currently studying database and gis scripting in python
+currently studying data manipulation and gis scripting in python
 
 *** 
 

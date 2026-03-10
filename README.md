@@ -1,6 +1,6 @@
 # sul
 
-currently studying data manipulation and gis scripting in python
+I'm a geography major currently studying data visualization and end-user app development in ArcGIS and ArcGIS Online. I've gotten considerable experience in data manipulation and Python scripting through personal project, asynchronous coursework, and college research. Leveraging my skills, I aim to make GIS projects more efficient and organized. My current focus is geared towards back-end development and data analysis, but I may eventually devote more time to becoming proficient in JavaScript for the sake of web development.
 
 *** 
 
@@ -13,3 +13,5 @@ currently studying data manipulation and gis scripting in python
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=for-the-badge&logo=qgis&logoColor=white)
